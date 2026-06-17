@@ -1,5 +1,6 @@
 {
   "name": "scopeai",
+  "description": "Scope AI — the AI analyst for AI products. Install Scope and query your product analytics from your coding agent.",
   "owner": {
     "name": "Scope AI",
     "url": "https://scopeai.dev"
