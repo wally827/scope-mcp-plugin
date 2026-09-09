@@ -1,7 +1,7 @@
 {
   "name": "scope-analytics-mcp",
   "displayName": "Scope Analytics",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Install + query Scope — the AI analyst for AI products — from your coding agent.",
   "author": {
     "name": "Scope AI",
